@@ -182,3 +182,4 @@ cython_debug/
 /data
 /maps
 /preprocessed
+/lightning_logs
